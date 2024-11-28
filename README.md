@@ -11,8 +11,11 @@ This is a Python-based system that monitors temperature and sends an alert when 
 1. Clone the repository:
    ```bash
    git clone https://github.com/khaled911-kk/Temperature-Monitoring-System.git
+
 ```
+
 2. Navigate to the project directory:
+
 ```
 cd Temperature-Monitoring-System
 ```
