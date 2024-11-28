@@ -22,7 +22,6 @@ cd Temperature-Monitoring-System
 python monitoring_system.py
 
 
-
 Future Improvements
 
 Add a graphical user interface (GUI).
